@@ -1,0 +1,5 @@
+link para download de git 
+
+https://git-scm.com/downloads
+
+Git bash es una terminal para realizar una extension a la terminal normal de windows, aportando mayor comunidad y practicidad del uso de la plataforma Git
